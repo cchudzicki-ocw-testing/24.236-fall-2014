@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '24.236F14 Topics In Social Theory and Practice - Assignments: Student Example'
-type: OCWFile
 uid: 62a29cca-cb60-2811-a9ae-f51fecc41cc4
 ---
