@@ -46,6 +46,6 @@ Project _proposals_ should address the following questions:
 Student Example
 ---------------
 
-{{< resource_link 62a29cca-cb60-2811-a9ae-f51fecc41cc4 "A Final Paper on Affirmative Action (PDF)" >}}
+{{% resource_link 62a29cca-cb60-2811-a9ae-f51fecc41cc4 "A Final Paper on Affirmative Action (PDF)" %}}
 
 This example appears courtesy of a MIT student and is used with permission.
